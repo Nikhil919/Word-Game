@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Word Game</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_result">Result</string>
+    <string name="title_activity_fill_blanks">FillBlanks</string>
+    <string name="title_activity_jumble">Jumble</string>
+    <string name="title_activity_category">Category</string>
+
+</resources>
